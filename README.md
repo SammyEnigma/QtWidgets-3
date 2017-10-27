@@ -1,4 +1,4 @@
-# 鉴于项目使用Qt，借鉴了一去二三里博主的博文[http://http://blog.csdn.net/liang19890820/article/details/50277095](http://http://blog.csdn.net/liang19890820/article/details/50277095 "一去丶二三里博客地址") #
+# 鉴于项目使用Qt，借鉴了一去二三里博主的博文[http://blog.csdn.net/liang19890820/article/details/50277095](http://blog.csdn.net/liang19890820/article/details/50277095 "一去丶二三里博客地址") #
 
 测试使用了Qt中的一些功能
 
