@@ -1,0 +1,71 @@
+QPushButton{
+    background: rgb(192, 192, 192);
+    border: 1px solid rgb(50, 50, 50);
+    color: white;
+    width: 75px;
+    height: 22px;
+    text-align: left center;
+    padding-left: 3px;
+}
+QPushButton:hover{
+    background: rgb(164, 164, 164);
+}
+QPushButton:pressed{
+    background: rgb(151, 151, 152);
+}
+QPushButton:checked{
+    background: green;
+}
+QPushButton::menu-indicator {
+    subcontrol-position: right center;
+    subcontrol-origin: padding;
+    padding-right: 3px;
+}
+
+QToolButton {
+    border: none;
+    background: rgb(68, 69, 73);
+    color: rgb(0, 160, 230);
+}
+
+QCheckBox {
+    spacing: 2px;
+    color: white;
+}
+QCheckBox {
+    background: rgb(0, 0, 0);
+    width: 32px;
+    height: 32px;
+}
+QCheckBox::indicator:unchecked {
+    image: url(:/Image/switch-off);
+}
+QCheckBox::indicator:checked {
+    image: url(:/Image/switch-on);
+}
+
+#QSlider::groove:horizontal {
+    height: 10px;
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 rgb(124, 124, 124), stop: 1.0 rgb(72, 71, 71));
+}
+#QSlider::handle:horizontal {
+    width: 5px;
+    background: rgb(0, 160, 230);
+    margin: -6px 0px -6px 0px;
+    border-radius: 9px;
+}
+
+QProgressBar {
+    border: none;
+    color: white;
+    text-align: center;
+    background: rgb(68, 69, 73);
+}
+QProgressBar::chunk {
+    border: none;
+    background: rgb(0, 160, 230);
+}
+
+QLabel {
+    background: white;
+}

@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/logo.png</file>
+        <file>Images/movie.avi</file>
+        <file>Images/movie.gif</file>
+        <file>skin/css/default.css</file>
+        <file>Image/switch-hover.png</file>
+        <file>Image/switch-off.png</file>
+        <file>Image/switch-on.png</file>
+        <file>Image/leading.png</file>
+        <file>Image/search.png</file>
+        <file>Image/search-hover.png</file>
+        <file>Image/search-normal.png</file>
+        <file>Image/search-pressed.png</file>
+        <file>Image/switch.png</file>
+        <file>Image/about.png</file>
+        <file>Image/help.png</file>
+        <file>Image/home.png</file>
+        <file>Image/open.png</file>
+        <file>Image/quit.png</file>
+        <file>Image/setting.png</file>
+        <file>Image/upgrade.png</file>
+        <file>Image/login.png</file>
+    </qresource>
+</RCC>
