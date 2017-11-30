@@ -5,7 +5,7 @@
 ## Qt一些基础控件的使用 ##，包括：
 ## PushButton/Label/LineEdit/CheckBox/ScrollArea/SpinBox/TrayMenu/Dialog/LedNumber .etc
 
-## 也使用了Qt最为强大的connet功能 ##
+## 也使用了Qt最为强大的connect功能 ##
 
 ## 比较好用的css功能 ##
 
